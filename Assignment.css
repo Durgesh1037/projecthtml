@@ -1,0 +1,209 @@
+body
+  {
+    border: 2px solid greenyellow;
+    height: 2500px;
+    width: 100%;
+    background-image: url("https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    /* border-collapse:collapse; */
+    background-repeat:no-repeat ;
+    background-size: 2050px;
+  }
+div
+  {
+      width: 1100px;
+      height: 400px;
+  }
+  #Div1
+  {
+      border: 5px solid red;
+      background-color: black;
+      color: white;
+      font-size: 20px;
+      width:300px;
+      border-radius: 20px;
+      height: 100px;
+      font-style: italic;
+      margin-left: 10px;
+      margin-top: 10px;
+      /* display: flex; */
+      float: left;
+      align-content: center;
+  }
+
+  #Div2
+  {
+    border: 5px solid red;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width:300px;
+    border-radius: 20px;
+    height: 50px;
+    font-style: italic;
+    margin-left: 10px;
+    margin-top: 18px;
+    /* display: flex; */
+    float: left;
+    margin-left: -80px;
+  }
+
+  #Div3
+  {
+    border: 5px solid red;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width:300px;
+    border-radius: 20px;
+    height: 150px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: 18px;
+    /* display: flex; */
+    float: left;
+    padding-left: 5px;
+    text-align: center;
+  }
+  #Div4
+  {
+    border: 5px solid grey;
+    background-color:lightseagreen;
+    color:black;
+    font-size: 20px;
+    width:400px;
+    border-radius:400px;
+    height: 400px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: 100px;
+    /* display: flex; */
+    float: left;
+    padding-left: 5px;
+    text-align: center;
+  }
+  #Div5
+  {
+        border: 4px dashed red;
+        color:salmon;
+        font-size: 20px;
+        width:350px;
+        height: 670px;
+        margin-left: 50px;
+        /* margin-top: 18px; */
+        /* display: flex; */
+        float: left;
+        padding-left: 5px;
+        text-align: center;
+  }
+  strong
+  {
+    padding:5px 5px 5px 5px;
+  }
+  #mid
+  {
+    align-content: center;
+    display: flex;
+    width: 900px;
+    height: 70px;
+    margin-top: 40px;
+
+  }
+  #Div6
+  {
+    border: 5px solid red;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width:350px;
+    border-radius: 20px;
+    height: 50px;
+    font-style: italic;
+    margin-left: 300px;
+    margin-top: 10px;
+    display: flex;
+    float: left;
+    text-align: center;
+    align-content: center;
+    
+  }
+  #Menu
+  {
+    
+    padding-left: 150px;
+    padding-right: 20px;
+    /* padding-top: 10px; */
+    padding-bottom: 80px;
+  }
+  #heading
+  {
+    text-align: center;
+    color: darkslateblue;
+  }
+  .Box1
+  {
+    width: 300px;
+    height: 300px;
+    border: 4px solid green;
+    background-color: mediumturquoise;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 25px;
+    display: inline-block;
+  }
+  .Box2
+  {
+    width: 300px;
+    height: 300px;
+    border: 4px solid green;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 25px;
+    display: inline-block;
+    background-color: mediumturquoise;
+  }
+  .Box3
+  {
+    width: 300px;
+    height: 300px;
+    background-color: mediumturquoise;
+    border: 4px solid green;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 25px;
+    display: inline-block;
+  }
+  .Box4
+  {
+    width: 300px;
+    background-color: mediumturquoise;
+    height: 300px;
+    border: 4px solid green;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 25px;
+    display: inline-block;
+  }
+
+  .Box5
+  {
+    width: 300px;
+    height: 300px;
+    border: 4px solid green;
+    background-color: mediumturquoise;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 25px;
+    display: inline-block;
+  }
+
+  .Box6
+  {
+    width: 300px;
+    height: 300px;
+    border: 4px solid green;
+    margin-left: 20px;
+    background-color: mediumturquoise;
+    margin-top: 20px;
+    border-radius: 25px;
+    display: inline-block;
+  }
